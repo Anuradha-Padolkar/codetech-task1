@@ -4,6 +4,9 @@ Domain: Python Programming
 Duration: November 20th,2024 to January 5th,2025
 Mentor:
 
+Overview of the Project
+Project:Simple Calculator
+
 Objective
 The main purpose of the program is to:-
 Provide users with a simple and interactive way to perform basic arithmetic operations.
@@ -74,3 +77,6 @@ This program serves as an excellent project for beginners, showcasing:
 Control Flow: Decision-making using if-elif-else.
 Error Handling: How to use try-except blocks effectively.
 User Interaction: Engaging users through input prompts and clear output.
+
+OUTPUT
+
